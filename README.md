@@ -20,7 +20,7 @@
 
 ---
 
-## 🔬 Overview
+##  Overview
 
 This project explores bacterial population dynamics through both **computational simulations** (*in silico*) and **laboratory experiments** using *Escherichia coli*. The study compares two fundamental ecological models:
 
@@ -31,7 +31,7 @@ The project investigates how environmental factors (pH and nutrient concentratio
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 1. Simulate exponential and logistic growth using iterative numerical methods
 2. Analyze the effects of parameters (r, K, N₀) on population dynamics
@@ -41,7 +41,7 @@ The project investigates how environmental factors (pH and nutrient concentratio
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### In Silico Simulations
 - **Tool**: Microsoft Excel
@@ -62,7 +62,7 @@ The project investigates how environmental factors (pH and nutrient concentratio
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 bacterial-growth-analysis/
@@ -90,14 +90,11 @@ bacterial-growth-analysis/
 ├── docs/
 │   ├── assignment_brief.pdf           # Original assignment document
 │   └── past_tutorial.md               # Guide for using PAST software
-│
-└── assets/
-    └── lab_photos/                    # Optional: photos from lab work
 ```
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Simulation Results
 
@@ -139,7 +136,7 @@ bacterial-growth-analysis/
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 ### Effect of Growth Rate (r)
 - Higher r → faster population growth and quicker approach to carrying capacity
@@ -163,7 +160,7 @@ bacterial-growth-analysis/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### For University Submission
 1. Download the complete repository as ZIP
