@@ -4,7 +4,7 @@
 
 [![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-217346?style=flat&logo=microsoft-excel)](https://www.microsoft.com/excel)
 [![PAST Software](https://img.shields.io/badge/Analysis-PAST%20Software-blue)](https://www.nhm.uio.no/english/research/infrastructure/past/)
-[![Course](https://img.shields.io/badge/Course-BIO104-green)](https://snu.edu.in)
+[![Course](https://img.shields.io/badge/Course-BIO1004-green)](https://snu.edu.in)
 
 ## Table of Contents
 - [Overview](#overview)
