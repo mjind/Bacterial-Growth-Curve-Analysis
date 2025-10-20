@@ -194,7 +194,7 @@ bacterial-growth-analysis/
 
 ## References
 
-1. Dahanukar, N. (2025). *Practical 2: Bacterial growth curve*. BIO104 Ecology and Environmental Sciences. Shiv Nadar Institution of Eminence.
+1. Dahanukar, N. (2025). *Practical 2: Bacterial growth curve*. BIO1004 Ecology and Environmental Sciences. Shiv Nadar Institution of Eminence.
 
 2. Zwietering, M. H., et al. (1990). Modeling of the bacterial growth curve. *Applied and Environmental Microbiology*, 56(6), 1875-1881.
 
@@ -205,7 +205,7 @@ bacterial-growth-analysis/
 ## Contact
 
 **Manya Jindal**  
-BIO104 - Ecology and Environmental Sciences  
+BIO1004 - Ecology and Environmental Sciences  
 Shiv Nadar Institution of Eminence  
 📫 mj225@snu.edu.in
 
@@ -221,8 +221,8 @@ This project is submitted as part of academic coursework at Shiv Nadar Universit
 
 - Dr. Neelesh Dahanukar for course instruction and practical design
 - Laboratory staff for technical support
-- BIO104 teaching assistants for guidance
+- Tania Varghese (teaching assistant) for guidance
 
 ---
 
-*Last Updated: October 19, 2025*
+*Last Updated: October 20, 2025*
