@@ -86,10 +86,6 @@ bacterial-growth-analysis/
 │       ├── pH5_original.png
 │       ├── pH7_original.png
 │       └── ...
-│
-├── docs/
-│   ├── assignment_brief.pdf           # Original assignment document
-│   └── past_tutorial.md               # Guide for using PAST software
 ```
 
 ---
