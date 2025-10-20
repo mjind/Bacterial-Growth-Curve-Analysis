@@ -449,8 +449,3 @@ All other formulas remain the same
 
 ---
 
-**Notes for Portfolio:**
-- Include high-quality plots with labeled axes
-- Add photos of experimental setup
-- Consider creating interactive versions with Python/R
-- Link to GitHub repository if you code implementations
