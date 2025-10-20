@@ -196,10 +196,6 @@ bacterial-growth-analysis/
 
 1. Dahanukar, N. (2025). *Practical 2: Bacterial growth curve*. BIO1004 Ecology and Environmental Sciences. Shiv Nadar Institution of Eminence.
 
-2. Zwietering, M. H., et al. (1990). Modeling of the bacterial growth curve. *Applied and Environmental Microbiology*, 56(6), 1875-1881.
-
-3. Hammer, Ø., Harper, D. A., & Ryan, P. D. (2001). PAST: Paleontological statistics software package for education and data analysis. *Palaeontologia Electronica*, 4(1), 9.
-
 ---
 
 ## Contact
