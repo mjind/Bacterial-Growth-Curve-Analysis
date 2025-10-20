@@ -182,7 +182,7 @@ bacterial-growth-analysis/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Microsoft Excel**: Numerical simulations and data visualization
 - **PAST Software**: Statistical analysis and curve fitting
@@ -192,7 +192,7 @@ bacterial-growth-analysis/
 
 ---
 
-## 📚 References
+## References
 
 1. Dahanukar, N. (2025). *Practical 2: Bacterial growth curve*. BIO104 Ecology and Environmental Sciences. Shiv Nadar Institution of Eminence.
 
@@ -202,7 +202,7 @@ bacterial-growth-analysis/
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Manya Jindal**  
 BIO104 - Ecology and Environmental Sciences  
@@ -211,13 +211,13 @@ Shiv Nadar Institution of Eminence
 
 ---
 
-## 📝 License
+## License
 
 This project is submitted as part of academic coursework at Shiv Nadar University. Please cite appropriately if using for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dr. Neelesh Dahanukar for course instruction and practical design
 - Laboratory staff for technical support
