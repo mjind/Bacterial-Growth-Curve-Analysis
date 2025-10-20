@@ -217,9 +217,9 @@ Generate three plots for each model:
 
 Bacterial turbidity serves as a proxy for population density:
 
-\[
-A = \epsilon c l
-\]
+[
+A = ε c l
+]
 
 Where:
 - **A** = Absorbance
