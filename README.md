@@ -1,4 +1,4 @@
-# 🧬 Bacterial Growth Curve Analysis
+# Bacterial Growth Curve Analysis
 
 > A computational and experimental study of *E. coli* population dynamics using exponential and logistic growth models
 
@@ -6,7 +6,7 @@
 [![PAST Software](https://img.shields.io/badge/Analysis-PAST%20Software-blue)](https://www.nhm.uio.no/english/research/infrastructure/past/)
 [![Course](https://img.shields.io/badge/Course-BIO104-green)](https://snu.edu.in)
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Methodology](#methodology)
