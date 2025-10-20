@@ -1,6 +1,6 @@
 # Bacterial Growth Curve Analysis: A Computational and Experimental Study
 
-**Course:** BIO104 - Ecology and Environmental Sciences  
+**Course:** BIO1004 - Ecology and Environmental Sciences  
 **Student:** Manya Jindal  
 **Institution:** Shiv Nadar Institution of Eminence  
 **Date:** October 19, 2025
